@@ -7,15 +7,25 @@ The goal of this project is to create a machine learning-based model that predic
 
 ### Dataset
 File: heart.csv
+
 Description: The dataset, heart.csv, is a clinical dataset containing patient health data used to train and evaluate the machine learning models. It includes features like:
+
 Age: Age of the patient
+
 Sex: Male/Female
+
 ChestPainType: Type of chest pain experienced (e.g., Typical Angina, Asymptomatic)
+
 RestingBP: Resting blood pressure
+
 Cholesterol: Serum cholesterol levels
+
 MaxHR: Maximum heart rate achieved
+
 ST_Slope: Slope of the peak exercise ST segment
+
 HeartDisease: Output class (1 for heart disease presence, 0 for no disease)
+
 This data is used to build and validate different machine-learning models to ensure reliable prediction accuracy.
 
 ## Feature Importance
