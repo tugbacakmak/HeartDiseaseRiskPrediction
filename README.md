@@ -59,7 +59,7 @@ To improve accessibility, a prototype user interface was developed using HTML an
 ## Installation
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/HeartDiseaseRiskPrediction.git
+git clone https://github.com/tugbacakmak/HeartDiseaseRiskPrediction.git
 2. Navigate to the project directory:
 bash
 cd HeartDiseaseRiskPrediction
