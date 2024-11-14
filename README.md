@@ -1,18 +1,6 @@
 # Heart Disease Risk Prediction Model
 This repository contains the code and documentation for my undergraduate thesis project. The project focuses on developing a machine-learning model based on patient data to predict heart disease risk. This work utilizes various classification algorithms and a feature importance analysis to highlight key attributes impacting heart disease prediction. Additionally, a prototype user interface is included to make predictions more accessible.
 
-# Table of Contents
-## Project Overview
-## Motivation
-## Data
-## Models and Methods
-## Feature Importance Analysis
-## Results
-## Prototype Interface
-## Installation
-## Usage
-## Contributing
-
 
 ## Project Overview
 This thesis project aims to create an accurate, interpretable model to predict heart disease risk based on clinical and demographic data, supporting healthcare providers in early diagnosis and patient management. The model analyzes key health indicators and produces risk assessments while offering insight into the importance of different predictive features.
