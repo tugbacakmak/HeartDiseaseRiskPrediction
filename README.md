@@ -33,7 +33,7 @@ To improve accessibility, a prototype user interface was developed using HTML an
 ## Installation
 Clone the repository:
 bash
-git clone https://github.com/yourusername/HeartDiseaseRiskPrediction.git
+git clone https://github.com/tugbacakmak/HeartDiseaseRiskPrediction.git
 Install dependencies:
 bash
 pip install -r requirements.txt
